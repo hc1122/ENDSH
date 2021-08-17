@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}YT : MODXPRO OFFICIAL
-{}   FqM            MMM {}TG{}: {}TG : @MODXASHIS
+   HZM            MMMM    {}Coded by {}: {} HIMMAT CHOUDHARY
+{}   FqM            MMM {}TG{}: {}TG : @Official_HC
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
